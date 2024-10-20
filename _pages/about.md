@@ -21,7 +21,6 @@ I am currently pursuing a Master of Science in Pharmacy at Southern Medical Univ
 
 Additionally, my studies and research take place in the Center for Drug Clinical Research (GCP) at Nanfang Hospital, where I participate in various clinical trial studies. One notable project is a phase 3 randomized, double-blind, placebo-controlled clinical trial sponsored by Merck & Co. to evaluate the efficacy, immunogenicity, and safety of the 9-valent human papillomavirus (HPV) vaccine (V503) in Chinese men aged 20 to 45. In this project, I have been involved in multiple aspects, including subject education and enrollment screening, drug administration, blood sample processing, and subject follow-up.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
 - *2021.09 - Current*, M.Sc. in Pharmacy, Southern Medical University (SMU)
@@ -52,9 +51,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors
+2020-2021	The Third Prize Scholarship of Southern Medical University (Top 15%)
+2019-2020	Excellent Student of Southern Medical University
+2019-2020	The Second Prize Scholarship of Southern Medical University (Top 5%)
+2017-2018	Excellent Student Cadre of Southern Medical University
+
 
 
 
@@ -63,4 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+2021.1-2021.11      Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University	
+- Intern Clinical Pharmacist
+
+
