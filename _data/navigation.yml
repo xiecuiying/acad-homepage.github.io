@@ -10,13 +10,13 @@ main:
  #   url: "/#-news"
  
  - title: "Research experience"
-    url: "/#-publications"
+    url: "/#-research_experience"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Selected Honors"
+    url: "/#-selected_honors"
 
 
  # - title: "Invited Talks"
