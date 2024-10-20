@@ -23,9 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2021.09 - Current*, M.Sc. in Pharmacy, Southern Medical University (SMU)
-                      •	Department:
-                        1.	Center for Drug Clinical Research (GCP), Nanfang Hospital, Southern Medical University
-                        2.	Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University
+                      -	Department:
+                        -1.	Center for Drug Clinical Research (GCP), Nanfang Hospital, Southern Medical University
+                        -2.	Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University
 - *2016.09 - 2021.06*, B.Sc. in Clinical Pharmacy, Southern Medical University (SMU)
 
 
